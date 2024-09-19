@@ -1,6 +1,6 @@
 #  Learning About Linux
 
-##Introduction
+##Introduction:
 Linux, in simple terms, is a free and open-source operating system. It’s similar to Windows and macOS, but it's different in several ways. Linux is very popular for its stability, security, and flexibility. It can be modified and distributed by anyone, which has led to many different versions, known as "distributions," and each distribution is tailored for different uses. Its open-source nature means that a community of developers and users contribute to its development
 
 ##Section 1: Linux History
